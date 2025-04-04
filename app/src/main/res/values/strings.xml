@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Marathon Race App</string>
+    <string name="mainTitle">Marathon Race</string>
+    <string name="marathonImage">Image of Marathon</string>
+    <string name="instructions">Enter Your Time:</string>
+    <string name="hourTime">Hours</string>
+    <string name="minuteTime">Minutes</string>
+    <string name="goldMedal">Image of Gold Medal</string>
+    <string name="silverMedal">Image of Silver Medal</string>
+    <string name="bronzeMedal">Image of Bronze Medal</string>
+    <string name="resultsButton">SEE RESULTS</string>
 </resources>
