@@ -9,4 +9,6 @@
     <string name="silverMedal">Image of Silver Medal</string>
     <string name="bronzeMedal">Image of Bronze Medal</string>
     <string name="resultsButton">SEE RESULTS</string>
+    <string name="resultsText">Your Results:</string>
+    <string name="medalResultDesctiption">Image of a Medal</string>
 </resources>
